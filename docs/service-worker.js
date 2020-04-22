@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e48f6c965463fec7fbe0e398c7e80083.js"
+  "precache-manifest.940cf998054c584e9cb66495ee4b6582.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "win10-ui"});
